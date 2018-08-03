@@ -1,0 +1,21 @@
+.titlebox {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 50px;
+  text-align: center;
+  vertical-align: center;
+  font-family: hollywood;
+  color: #fff;
+  text-shadow: 0 0 5px #000;
+}
+
+.titlebox h1 {
+  margin-top: 10px;
+  font-size: 6em;
+}
+
+.titlebox p {
+  font-size: 1.8em;
+  font-family: cursive;
+}

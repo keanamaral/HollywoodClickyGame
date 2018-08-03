@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Angelina Jolie",
+    "image": "./assets/images/angelina.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Arnold Schwarzenegger",
+    "image": "./assets/images/arnold.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Ashton Kutcher",
+    "image": "./assets/images/ashton-kutcher.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Avril Lavigne",
+    "image": "./assets/images/avril-lavigne.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Martin Lawrence",
+    "image": "./assets/images/martin-lawrence.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Brad Pitt",
+    "image": "./assets/images/brad-pitt.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Chris Hemsworth",
+    "image": "./assets/images/ChrisHemsworth.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Daniel Radcliffe",
+    "image": "./assets/images/daniel-radcliffe.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Drew Barrymore",
+    "image": "./assets/images/drewBarrymore.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Dwayne Johnson",
+    "image": "./assets/images/dwayneJohnson.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Gerard Butler",
+    "image": "./assets/images/Gerard-Butler.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Jada Pinkett Smith",
+    "image": "./assets/images/jadaPinkett.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Jake Gyllenhal",
+    "image": "./assets/images/jake-gyllenhal.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Joseph Gordon-Levitt",
+    "image": "./assets/images/jglevitt.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Keira Knightley",
+    "image": "./assets/images/keira-knightley.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Naomi Watts",
+    "image": "./assets/images/naomi-watts.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "Leonardo Di Caprio",
+    "image": "./assets/images/leo.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "name": "Robert Downey Jr",
+    "image": "./assets/images/robDowney.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "name": "Jennifer Anniston",
+    "image": "./assets/images/JennAnniston.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "name": "Mena Suvari",
+    "image": "./assets/images/mena-suvari.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "name": "Ryan Reynolds",
+    "image": "./assets/images/ryanReynolds.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "name": "Tom Cruise",
+    "image": "./assets/images/tom-cruise.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "name": "Will Smith",
+    "image": "./assets/images/willsmith.jpg",
+    "count": 0,
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "name": "Johnny Depp",
+    "image": "./assets/images/Johnny-Depp.jpg",
+    "count": 0,
+    "clicked": false
+  }
+]

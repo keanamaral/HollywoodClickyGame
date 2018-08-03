@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 5px;
+  padding-top: 15px;
+  width: 100%;
+  position: relative;
+  background: url("../../assets/gifs/starry.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

@@ -1,0 +1,56 @@
+.nav-pills {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background:url("../../assets/gifs/starry.gif");
+  min-height: 65px;
+  width: 100%;
+  -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  color: #fff;
+  font-family: hollywood;
+  font-size: 25px;
+  z-index: 99;
+}
+.navTitle {
+  font-size: 35px;
+  left: -100px;
+}
+.nav-pills a {
+  color: #fff;
+}
+.nav-pills a:hover {
+  color: #fff;
+  background-color: #5133a4 !important;
+}
+
+.volume-icon {
+  height: 100px;
+  color: #fff;
+}
+
+.btn-link {
+  top: 1%;
+  left: 1%;
+  position: absolute;
+}
+
+.off {
+  display: block;
+}
+  
+.on {
+  display: none;
+}
+
+.desc-normal {
+  color: #fff;
+}
+
+.desc-correct {
+  color: #0f0;
+}
+
+.desc-incorrect {
+  color: #f00;
+}
