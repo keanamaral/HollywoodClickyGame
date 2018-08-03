@@ -1,4 +1,6 @@
 # [HollywoodClickyGame](https://keanamaral.github.io/HollywoodClickyGame/)
+An App in Reactjs to play a Hollywood Celebrity Memory Game
+
 <<<<<<< HEAD
 Celebrity Memory Game using Reactjs
 
@@ -6,5 +8,4 @@ Celebrity Memory Game using Reactjs
 
 ![App Screenshot02](GitHub-Readme-Images/screenshot02.png)
 =======
-An App in Reactjs to play a Hollywood Celebrity Memory Game
 >>>>>>> fb0b6ef8fb88ce317670d9730626918c759babc8
